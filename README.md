@@ -2,6 +2,23 @@
 
 # 🔋 EnergyAction: Unimanual to Bimanual Composition with Energy-Based Models (CVPR 2026)
 
+<div>
+Mingchen&nbsp;Song<sup>1 2</sup>,
+<a target="_blank" href="https://homepage.hit.edu.cn/dengxiang">Xiang&nbsp;Deng</a><sup>1 3†</sup>,
+Jie&nbsp;Wei<sup>1</sup>,
+<a target="_blank" href="https://scholar.google.com/citations?hl=en&user=Awsue7sAAAAJ">Dongmei&nbsp;Jiang</a><sup>2</sup>,
+<a target="_blank" href="https://scholar.google.com/citations?hl=en&user=yywVMhUAAAAJ">Liqiang&nbsp;Nie</a><sup>1</sup>,
+<a target="_blank" href="https://ieeexplore.ieee.org/author/37087008154">Weili&nbsp;Guan</a><sup>1 3†</sup>
+</div>
+<sup>1</sup>Harbin Institute of Technology, Shenzhen&nbsp;&nbsp;
+<sup>2</sup>PengCheng Laboratory&nbsp;&nbsp;
+<sup>3</sup>Shenzhen Loop Area Institute
+<br>
+<sup>†</sup>Corresponding author
+<br><br>
+<a href="https://arxiv.org/abs/2603.20236" target="_blank"><img src="https://img.shields.io/badge/Paper-arXiv-deepgreen" alt="Paper arXiv"></a>
+<a href="https://github.com/codeshop715/EnergyAction" target="_blank"><img src="https://img.shields.io/badge/Code-GitHub-black" alt="GitHub"></a>
+
 </div>
 
 
