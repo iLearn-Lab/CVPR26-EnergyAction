@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔋 EnergyAction: Unimanual to Bimanual Composition with Energy-Based Models (CVPR 2026)
+# 🔋 EnergyAction: Unimanual to Bimanual Composition with Energy-Based Models (CVPR 2026 Highlight)
 
 <div>
 Mingchen&nbsp;Song<sup>1 2</sup>,
